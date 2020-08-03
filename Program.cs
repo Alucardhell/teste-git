@@ -7,6 +7,7 @@ namespace helloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Teste Git");
+            Console.WriteLine("Segundo Teste Git");
         }
     }
 }
