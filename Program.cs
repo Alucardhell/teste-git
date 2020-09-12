@@ -9,6 +9,7 @@ namespace helloWorld
             Console.WriteLine("Teste Git !!");
             Console.WriteLine("Segundo Teste Git !!");
             Console.WriteLine("Terceito teste git refeito !!");
+            Console.WriteLine("Quarto teste.");
         }
     }
 }
